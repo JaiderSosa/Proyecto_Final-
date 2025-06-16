@@ -1,5 +1,5 @@
 # Proyecto_Final-
-# Piedra, Papel o Tijera - Aplicación en Python (Patrón MVC)
+# Piedra, Papel o Tijera - Patrón MVC
 
 Este proyecto implementa el clásico juego de "Piedra, Papel o Tijera" utilizando el lenguaje de programación Python y la biblioteca `tkinter` para la interfaz gráfica. El diseño sigue el patrón de arquitectura Modelo-Vista-Controlador (MVC), lo cual permite una separación clara entre la lógica del juego, la interfaz de usuario y el control de flujo.
 
